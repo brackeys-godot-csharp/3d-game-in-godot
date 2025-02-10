@@ -1,4 +1,4 @@
-**Based on Brackeys solution, wil be rewritten to use C# controller (and probably Godot 4.4 already) over the next couple days.**
+Based on Brackeys' solution with the character controller rewritten in C# **already upgraded to Godot 4.4 Beta 3** (due to integrated Jolt).
 
 # 3d-game-in-godot
 Project files for our video on making 3D games in Godot.
